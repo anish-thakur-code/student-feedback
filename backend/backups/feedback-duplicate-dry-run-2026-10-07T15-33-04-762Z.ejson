@@ -1,0 +1,215 @@
+{
+  "exportedAt": {
+    "$date": "2026-10-07T15:33:04.765Z"
+  },
+  "documentCount": 9,
+  "documents": [
+    {
+      "_id": {
+        "$oid": "6ac660ccda5bcc7b45eac662"
+      },
+      "studentName": "ramya",
+      "email": "anishthakur1328@gmail.com",
+      "semester": 4,
+      "department": "ECE",
+      "satisfaction": "Neutral",
+      "academicExperience": "jbugu",
+      "campusLife": "jhhb",
+      "favoriteThing": "nbvh g",
+      "improvements": "nv",
+      "overallRating": 5,
+      "createdAt": {
+        "$date": "2026-10-07T15:10:04.050Z"
+      },
+      "updatedAt": {
+        "$date": "2026-10-07T15:10:04.050Z"
+      },
+      "__v": 0,
+      "normalizedEmail": "anishthakur1328@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "6ac65f93da5bcc7b45eac65e"
+      },
+      "studentName": "Anish Thakur",
+      "email": "anishthakur1328@gmail.com",
+      "semester": 5,
+      "department": "CE",
+      "satisfaction": "Satisfied",
+      "academicExperience": "not satisfie",
+      "campusLife": "jhnhui",
+      "favoriteThing": "jhb bug",
+      "improvements": "jh bhj",
+      "overallRating": 3,
+      "createdAt": {
+        "$date": "2026-10-07T15:04:51.548Z"
+      },
+      "updatedAt": {
+        "$date": "2026-10-07T15:04:51.548Z"
+      },
+      "__v": 0,
+      "normalizedEmail": "anishthakur1328@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "6ac6552fda5bcc7b45eac65c"
+      },
+      "studentName": "anuppp",
+      "email": "anupku8844@gmail.com",
+      "semester": 4,
+      "department": "AI/ML",
+      "satisfaction": "Satisfied",
+      "academicExperience": "kljmhiou",
+      "campusLife": "knj",
+      "favoriteThing": "jnjhb",
+      "improvements": "j njh",
+      "overallRating": 4,
+      "createdAt": {
+        "$date": "2026-10-07T14:20:31.239Z"
+      },
+      "updatedAt": {
+        "$date": "2026-10-07T14:20:31.239Z"
+      },
+      "__v": 0,
+      "normalizedEmail": "anupku8844@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "6ac65420da5bcc7b45eac65a"
+      },
+      "studentName": "Anish Thakur",
+      "email": "anupku8844@gmail.com",
+      "semester": 5,
+      "department": "ECE",
+      "satisfaction": "Satisfied",
+      "academicExperience": "kjnhuji",
+      "campusLife": "jkn b",
+      "favoriteThing": "kjn",
+      "improvements": "m n",
+      "overallRating": 3,
+      "createdAt": {
+        "$date": "2026-10-07T14:16:00.312Z"
+      },
+      "updatedAt": {
+        "$date": "2026-10-07T14:16:00.312Z"
+      },
+      "__v": 0,
+      "normalizedEmail": "anupku8844@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "6ac6529dda5bcc7b45eac658"
+      },
+      "studentName": "ANUP SINGH",
+      "email": "anupku8844@gmail.com",
+      "semester": 5,
+      "department": "CE",
+      "satisfaction": "Satisfied",
+      "academicExperience": "nhui",
+      "campusLife": "jknhjh",
+      "favoriteThing": "j kbjh",
+      "improvements": "knjhu",
+      "overallRating": 4,
+      "createdAt": {
+        "$date": "2026-10-07T14:09:33.955Z"
+      },
+      "updatedAt": {
+        "$date": "2026-10-07T14:09:33.955Z"
+      },
+      "__v": 0,
+      "normalizedEmail": "anupku8844@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "6ac65119da5bcc7b45eac656"
+      },
+      "studentName": "john",
+      "email": "anupku8844@gmail.com",
+      "semester": 4,
+      "department": "CE",
+      "satisfaction": "Satisfied",
+      "academicExperience": "kjnh",
+      "campusLife": "kj nnj",
+      "favoriteThing": "klnj",
+      "improvements": "kjnij",
+      "overallRating": 4,
+      "createdAt": {
+        "$date": "2026-10-07T14:03:05.442Z"
+      },
+      "updatedAt": {
+        "$date": "2026-10-07T14:03:05.442Z"
+      },
+      "__v": 0,
+      "normalizedEmail": "anupku8844@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "6ac64f92da5bcc7b45eac654"
+      },
+      "studentName": "Anup singh",
+      "email": "anupku8844@gmail.com",
+      "semester": 4,
+      "department": "CE",
+      "satisfaction": "Satisfied",
+      "academicExperience": "vgdg",
+      "campusLife": "knuy",
+      "favoriteThing": "kljnh",
+      "improvements": "kjn",
+      "overallRating": 4,
+      "createdAt": {
+        "$date": "2026-10-07T13:56:34.785Z"
+      },
+      "updatedAt": {
+        "$date": "2026-10-07T13:56:34.785Z"
+      },
+      "__v": 0,
+      "normalizedEmail": "anupku8844@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "6ac64dfdda5bcc7b45eac650"
+      },
+      "studentName": "Anish Thakur",
+      "email": "anupku8844@gmail.com",
+      "semester": 6,
+      "department": "ECE",
+      "satisfaction": "Neutral",
+      "academicExperience": "sdfvw",
+      "campusLife": "cfa",
+      "favoriteThing": "ewvwfce",
+      "improvements": "csd",
+      "overallRating": 4,
+      "createdAt": {
+        "$date": "2026-10-07T13:49:49.094Z"
+      },
+      "updatedAt": {
+        "$date": "2026-10-07T13:49:49.094Z"
+      },
+      "__v": 0,
+      "normalizedEmail": "anupku8844@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "6ac64da24a632baa1928bc15"
+      },
+      "studentName": "Anish Thakur",
+      "email": "anupku8844@gmail.com",
+      "semester": 5,
+      "department": "CE",
+      "satisfaction": "Satisfied",
+      "academicExperience": "afa",
+      "campusLife": "fcqw",
+      "favoriteThing": "vstes",
+      "improvements": "ddfvwe",
+      "overallRating": 3,
+      "createdAt": {
+        "$date": "2026-10-07T13:48:18.794Z"
+      },
+      "updatedAt": {
+        "$date": "2026-10-07T13:48:18.794Z"
+      },
+      "__v": 0,
+      "normalizedEmail": "anupku8844@gmail.com"
+    }
+  ]
+}
